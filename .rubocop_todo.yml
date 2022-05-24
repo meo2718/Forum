@@ -132,6 +132,7 @@ Style/Documentation:
     - 'app/models/application_record.rb'
     - 'config/application.rb'
     - 'db/migrate/20220523033359_sorcery_core.rb'
+  Enabled: false
 
 # Offense count: 2
 # This cop supports safe auto-correction (--auto-correct).
